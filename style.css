@@ -7,7 +7,7 @@ font-size: 1.5vw;
 #logo{margin: 0px;
 padding: 8px;
 font-family: "Fredoka One", sans-serif;
-box-shadow: 8px 8px 10px 3px darkorange;
+box-shadow: 8px 8px 10px 3px darkblue;
 width: 16%;
 }
 
@@ -16,12 +16,12 @@ ul{margin: 0px;}
 
 
 body > header {
-    background-color: orange;
-    color: rgb(21, 200, 232) ;
+    background-color: skyblue;
+    color: black;
     display: flex;
-    height: 12vh;
+    height: 19vh;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 #nav-ul {
@@ -89,3 +89,15 @@ img{
     color: white;
     text-decoration: none;
 }
+
+#colour {
+    color: red;
+}
+#colour1 {color: orange;}
+#colour2 {color: yellow;}
+#colour3 {color: rgb(12, 227, 12);}
+#colour4 {color: aqua;}
+#colour5 {color: indigo;}
+#colour6 {color: violet;}
+
+#image1 {style="width: 20;"}
