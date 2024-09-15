@@ -19,7 +19,7 @@ body > header {
     background-color: skyblue;
     color: black;
     display: flex;
-    height: 19vh;
+    height: 21vh;
     align-items: center;
     justify-content: space-between;
 }
@@ -100,4 +100,3 @@ img{
 #colour5 {color: indigo;}
 #colour6 {color: violet;}
 
-#image1 {style="width: 20;"}
